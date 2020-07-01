@@ -2,7 +2,6 @@
   "name": "ryan_brown_media",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ryannbrown.github.io/ryan_brown_media",
   "buildpacks": [
     {
       "url": "mars/create-react-app"
