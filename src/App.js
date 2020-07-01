@@ -15,6 +15,7 @@ import Portfolio from "./components/Portfolio/index"
 import Pricing from "./components/Pricing/index"
 import About from "./components/About/index"
 import Contact from "./components/Contact/index"
+import createHistory from 'history/createBrowserHistory';
 // import ParticlesJS from 'particles.json';
 
 const particlesJS = window.particlesJS;
@@ -140,6 +141,12 @@ const particlesOptions = {
 
 
 function App() {
+
+
+  const history = createHistory({
+    basename: process.env.PUBLIC_URL,
+  });
+
   return (
     <div className="App">
       <Particles
@@ -148,7 +155,7 @@ function App() {
       />
          <Navigation/>
 
-         <Router>
+         <Router history = {history}>
            <Switch>
              {/* <Route path = "/" component={App}/> */}
              <Route path="/pricing" component={Pricing}/>
