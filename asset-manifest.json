@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ryan_brown_media/static/css/main.527bc853.chunk.css",
+    "main.js": "/ryan_brown_media/static/js/main.f964b7ca.chunk.js",
+    "main.js.map": "/ryan_brown_media/static/js/main.f964b7ca.chunk.js.map",
+    "runtime-main.js": "/ryan_brown_media/static/js/runtime-main.e6062188.js",
+    "runtime-main.js.map": "/ryan_brown_media/static/js/runtime-main.e6062188.js.map",
+    "static/js/2.7400c7c0.chunk.js": "/ryan_brown_media/static/js/2.7400c7c0.chunk.js",
+    "static/js/2.7400c7c0.chunk.js.map": "/ryan_brown_media/static/js/2.7400c7c0.chunk.js.map",
+    "index.html": "/ryan_brown_media/index.html",
+    "precache-manifest.da8d82765f79242abe488350417b6a79.js": "/ryan_brown_media/precache-manifest.da8d82765f79242abe488350417b6a79.js",
+    "service-worker.js": "/ryan_brown_media/service-worker.js",
+    "static/css/main.527bc853.chunk.css.map": "/ryan_brown_media/static/css/main.527bc853.chunk.css.map",
+    "static/js/2.7400c7c0.chunk.js.LICENSE.txt": "/ryan_brown_media/static/js/2.7400c7c0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6062188.js",
+    "static/js/2.7400c7c0.chunk.js",
+    "static/css/main.527bc853.chunk.css",
+    "static/js/main.f964b7ca.chunk.js"
+  ]
+}
