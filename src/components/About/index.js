@@ -11,14 +11,14 @@ function Pricing() {
 
         <div className="about-page">
 
-            
+
             <div className="wrapper">
                 <div><Row><Col sm={12} md={12}><div className="avatar-container">
-                <img
-                    src="https://i.ibb.co/2SbrdkP/Ryan1-b39c770b.jpg" alt="Ryan Brown"
-                    className="avatar"
-                />
-            </div></Col></Row></div>
+                    <img
+                        src="https://i.ibb.co/2SbrdkP/Ryan1-b39c770b.jpg" alt="Ryan Brown"
+                        className="avatar"
+                    />
+                </div></Col></Row></div>
                 <div><Row><Col sm={12} md={12}><div className="headline">ABOUT ME</div></Col></Row></div>
                 {/* <div><Row><Col><div className="headline"> PRICING</div></Col></Row></div> */}
                 <Row>
@@ -30,9 +30,9 @@ Professionally that means giving my clients a finished product they can get exci
 NodeJS, React, and PostgreSQL when working on my projects.
 </p>
                             <p><span>A little more abut me.</span> Based in Raleigh, NC.. I am an outdoor enthusiast who loves a
-good adventure out west. I've roadtripped to Alaska and back more than once and have
+good adventure out west. I've roadtripped to Alaska and back a few times and have
 traveled to ~25 countries around the world. Lately my adventures have been
- making memories with my wife and 1 year old baby girl, Haven. </p>
+ making memories with my wife and 1 year old baby girl, Haven, and it's been the best! </p>
                         </div>
                     </Col>
                 </Row>
