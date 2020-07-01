@@ -14,6 +14,7 @@ import Navigation from "./components/Navigation/index"
 import Portfolio from "./components/Portfolio/index"
 import Pricing from "./components/Pricing/index"
 import About from "./components/About/index"
+import Contact from "./components/Contact/index"
 // import ParticlesJS from 'particles.json';
 
 const particlesJS = window.particlesJS;
@@ -152,6 +153,7 @@ function App() {
              {/* <Route path = "/" component={App}/> */}
              <Route path="/pricing" component={Pricing}/>
              <Route path="/about" component={About}/>
+             <Route path="/contact" component={Contact}/>
              <Route path="/" component={Portfolio}/>
            </Switch>
          </Router>
