@@ -1,0 +1,28 @@
+
+    .rbmedia{
+      display:flex;
+      margin:auto;
+    }
+  
+    .brand-title{
+      margin:auto;
+      color: #212529;
+      margin-top:15%;
+    }
+    
+  
+    .navbar{
+      box-shadow: rgba(37, 42, 49, 0.3) 0px 4px 12px 0px;
+    }
+
+    @media(max-width:667px) {
+      .mtn-logo{
+        width:35%;
+      }
+      .brand-title {
+        font-size:1.5rem;
+      /* margin:0px auto; */
+      text-align: center;
+      }
+ 
+    }

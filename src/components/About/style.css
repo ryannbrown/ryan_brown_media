@@ -1,0 +1,24 @@
+.wrapper span {
+    color:white;
+}
+
+.about-page p {
+    font-size:24px;
+    color:#3a3a3a;
+}
+
+.avatar-container{
+    margin:0px auto;
+    width:200px;
+    z-index:999;
+}
+.avatar{
+    width:175px;
+    border-radius:50%;
+    z-index:9999;
+  }
+
+  .text-box{
+      width:75%;
+      margin:0px auto;
+  }
