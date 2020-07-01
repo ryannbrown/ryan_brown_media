@@ -7,13 +7,20 @@
     .brand-title{
       margin:auto;
       color: #212529;
-      margin-top:15%;
+      margin: 10% 0% 0% 10%;
+      text-shadow: 2px 2px 3px rgba(0,0,0,0.3);
     }
     
   
     .navbar{
       box-shadow: rgba(37, 42, 49, 0.3) 0px 4px 12px 0px;
     }
+
+
+
+    img.mtn-logo {
+      width: 35%;
+  }
 
     @media(max-width:667px) {
       .mtn-logo{

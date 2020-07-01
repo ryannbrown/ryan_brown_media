@@ -16,6 +16,7 @@
     width:175px;
     border-radius:50%;
     z-index:9999;
+    filter: saturate(.6);
   }
 
   .text-box{
