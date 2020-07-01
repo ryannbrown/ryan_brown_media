@@ -5,9 +5,16 @@
 
 .App {
   text-align: center;
-    overflow: hidden;
-    height: 1500px;
+    /* overflow: hidden; */
+    /* height: 1500px; */
 }
+
+/* @media(max-width:667px) {
+  .App{
+    height:1750px;
+  }
+
+} */
 
   .particles {
     position:fixed;
