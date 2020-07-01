@@ -2,6 +2,11 @@
   "name": "ryan_brown_media",
   "version": "0.1.0",
   "private": true,
+  "buildpacks": [
+    {
+      "url": "mars/create-react-app"
+    }
+  ],
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.29",
     "@fortawesome/free-solid-svg-icons": "^5.13.1",
